@@ -1,0 +1,4 @@
+function showXAI() {
+    document.getElementById("xaiText").innerHTML =
+    "Explainable AI makes AI decisions transparent and trustworthy.";
+}
